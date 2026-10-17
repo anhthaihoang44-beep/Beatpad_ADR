@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Neon Pad 1: Coral / Hot Pink -->
+    <path
+        android:fillColor="#FF2A6D"
+        android:pathData="M28,28h22v22h-22z" />
+    <!-- Neon Pad 2: Cyan -->
+    <path
+        android:fillColor="#05D9E8"
+        android:pathData="M58,28h22v22h-22z" />
+    <!-- Neon Pad 3: Purple -->
+    <path
+        android:fillColor="#9D4EDD"
+        android:pathData="M28,58h22v22h-22z" />
+    <!-- Neon Pad 4: Amber -->
+    <path
+        android:fillColor="#FFD166"
+        android:pathData="M58,58h22v22h-22z" />
+    <!-- Center Audio Wave Pulse Indicator -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M35,39 L43,39 M65,39 L73,39 M35,69 L43,69 M65,69 L73,69" />
+</vector>

@@ -1,0 +1,25 @@
+{
+  "id": "retro_electro",
+  "name": "Retro Electro",
+  "genre": "Electro",
+  "bpm": 130,
+  "key": "B Minor",
+  "description": "Punchy electro beats, acid 303 saw basslines, and retro vocoder chops.",
+  "colorPrimary": "#00F5FF",
+  "colorSecondary": "#FFE600",
+  "demoSample": "samples/electro/pad_4.wav",
+  "pads": [
+    { "id": 0, "name": "Fat Kick", "family": "DRUMS", "mode": "ONE_SHOT", "samplePath": "samples/electro/pad_0.wav", "color": "#FF2A6D", "loopBars": 1 },
+    { "id": 1, "name": "Electro Clap", "family": "DRUMS", "mode": "ONE_SHOT", "samplePath": "samples/electro/pad_1.wav", "color": "#FF2A6D", "loopBars": 1 },
+    { "id": 2, "name": "Crisp Hat", "family": "DRUMS", "mode": "ONE_SHOT", "samplePath": "samples/electro/pad_2.wav", "color": "#FF5376", "loopBars": 1 },
+    { "id": 3, "name": "Open Hat", "family": "DRUMS", "mode": "ONE_SHOT", "samplePath": "samples/electro/pad_3.wav", "color": "#FF5376", "loopBars": 1 },
+    { "id": 4, "name": "Acid 303", "family": "BASS", "mode": "LOOP", "samplePath": "samples/electro/pad_4.wav", "color": "#00F5FF", "loopBars": 2 },
+    { "id": 5, "name": "Buzz Bass", "family": "BASS", "mode": "LOOP", "samplePath": "samples/electro/pad_5.wav", "color": "#00F5FF", "loopBars": 2 },
+    { "id": 6, "name": "Square Lead", "family": "SYNTH", "mode": "ONE_SHOT", "samplePath": "samples/electro/pad_6.wav", "color": "#9D4EDD", "loopBars": 1 },
+    { "id": 7, "name": "Disco Pluck", "family": "SYNTH", "mode": "LOOP", "samplePath": "samples/electro/pad_7.wav", "color": "#B5179E", "loopBars": 2 },
+    { "id": 8, "name": "Siren FX", "family": "FX", "mode": "ONE_SHOT", "samplePath": "samples/electro/pad_8.wav", "color": "#FFE600", "loopBars": 1 },
+    { "id": 9, "name": "Noise Sweep", "family": "FX", "mode": "ONE_SHOT", "samplePath": "samples/electro/pad_9.wav", "color": "#FFE600", "loopBars": 2 },
+    { "id": 10, "name": "Vocoder 'Beat'", "family": "VOCAL", "mode": "ONE_SHOT", "samplePath": "samples/electro/pad_10.wav", "color": "#06D6A0", "loopBars": 1 },
+    { "id": 11, "name": "Vocoder 'Pad'", "family": "VOCAL", "mode": "ONE_SHOT", "samplePath": "samples/electro/pad_11.wav", "color": "#06D6A0", "loopBars": 1 }
+  ]
+}

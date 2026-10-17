@@ -1,0 +1,25 @@
+{
+  "id": "lofi_chill",
+  "name": "Lo-Fi Chill",
+  "genre": "Hip-Hop",
+  "bpm": 85,
+  "key": "C Major",
+  "description": "Dusty vinyl drums, soothing Rhodes piano chords, and cozy analog tape ambiance.",
+  "colorPrimary": "#E07A5F",
+  "colorSecondary": "#81B29A",
+  "demoSample": "samples/hiphop/pad_5.wav",
+  "pads": [
+    { "id": 0, "name": "Vinyl Kick", "family": "DRUMS", "mode": "ONE_SHOT", "samplePath": "samples/hiphop/pad_0.wav", "color": "#E07A5F", "loopBars": 1 },
+    { "id": 1, "name": "Rimshot", "family": "DRUMS", "mode": "ONE_SHOT", "samplePath": "samples/hiphop/pad_1.wav", "color": "#E07A5F", "loopBars": 1 },
+    { "id": 2, "name": "Dusty Hat", "family": "DRUMS", "mode": "ONE_SHOT", "samplePath": "samples/hiphop/pad_2.wav", "color": "#F4A261", "loopBars": 1 },
+    { "id": 3, "name": "Lo-Fi Snare", "family": "DRUMS", "mode": "ONE_SHOT", "samplePath": "samples/hiphop/pad_3.wav", "color": "#E07A5F", "loopBars": 1 },
+    { "id": 4, "name": "Mellow Bass", "family": "BASS", "mode": "LOOP", "samplePath": "samples/hiphop/pad_4.wav", "color": "#3D5A80", "loopBars": 2 },
+    { "id": 5, "name": "Rhodes Cmaj7", "family": "SYNTH", "mode": "LOOP", "samplePath": "samples/hiphop/pad_5.wav", "color": "#81B29A", "loopBars": 2 },
+    { "id": 6, "name": "Rhodes Am7", "family": "SYNTH", "mode": "LOOP", "samplePath": "samples/hiphop/pad_6.wav", "color": "#81B29A", "loopBars": 2 },
+    { "id": 7, "name": "Guitar Lick", "family": "SYNTH", "mode": "ONE_SHOT", "samplePath": "samples/hiphop/pad_7.wav", "color": "#98C1D9", "loopBars": 1 },
+    { "id": 8, "name": "Vinyl Crackle", "family": "FX", "mode": "LOOP", "samplePath": "samples/hiphop/pad_8.wav", "color": "#EE6C4D", "loopBars": 2 },
+    { "id": 9, "name": "Tape Stop", "family": "FX", "mode": "ONE_SHOT", "samplePath": "samples/hiphop/pad_9.wav", "color": "#EE6C4D", "loopBars": 1 },
+    { "id": 10, "name": "Smooth Breath", "family": "VOCAL", "mode": "ONE_SHOT", "samplePath": "samples/hiphop/pad_10.wav", "color": "#2A9D8F", "loopBars": 1 },
+    { "id": 11, "name": "Tape Hum", "family": "FX", "mode": "LOOP", "samplePath": "samples/hiphop/pad_11.wav", "color": "#EE6C4D", "loopBars": 2 }
+  ]
+}

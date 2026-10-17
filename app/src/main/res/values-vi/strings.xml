@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">BeatPad</string>
+
+    <!-- Navigation -->
+    <string name="nav_packs">Gói Âm</string>
+    <string name="nav_play">Chơi Nhạc</string>
+    <string name="nav_learn">Học Tập</string>
+    <string name="nav_tracks">Bản Thu</string>
+    <string name="nav_settings">Cài Đặt</string>
+
+    <!-- Play Deck -->
+    <string name="mode_pads">Phím Nhạc</string>
+    <string name="mode_sequencer">Bộ Lập Nhịp</string>
+    <string name="bpm_label">BPM</string>
+    <string name="metronome_label">Máy Đếm Nhịp</string>
+    <string name="record_start">Ghi Âm</string>
+    <string name="record_stop">Dừng</string>
+    <string name="recording_active">ĐANG THU</string>
+    <string name="tap_tempo">GÕ NHỊP</string>
+    <string name="pad_mode_oneshot">Một Lần</string>
+    <string name="pad_mode_loop">Lặp</string>
+    <string name="swing_label">Độ Nảy</string>
+
+    <!-- Learn Screen -->
+    <string name="learn_title">Chế Độ Học</string>
+    <string name="learn_subtitle">Đánh theo ánh đèn neon &amp; làm chủ nhịp điệu</string>
+    <string name="start_lesson">Bắt Đầu Học</string>
+    <string name="hit_perfect">HOÀN HẢO!</string>
+    <string name="hit_good">TỐT</string>
+    <string name="hit_miss">TRƯỢT</string>
+    <string name="lesson_score">Điểm: %1$d%%</string>
+    <string name="lesson_complete">Hoàn Thành Bài Học!</string>
+    <string name="retry">Thử Lại</string>
+    <string name="continue_btn">Tiếp Tục</string>
+
+    <!-- General -->
+    <string name="cancel">Hủy</string>
+    <string name="save">Lưu</string>
+    <string name="delete">Xóa</string>
+</resources>

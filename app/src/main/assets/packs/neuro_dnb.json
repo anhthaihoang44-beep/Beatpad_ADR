@@ -1,0 +1,25 @@
+{
+  "id": "neuro_dnb",
+  "name": "Neuro Drum & Bass",
+  "genre": "Drum & Bass",
+  "bpm": 174,
+  "key": "D Minor",
+  "description": "High-octane 174 BPM breakbeats, reese basslines, and amen chops.",
+  "colorPrimary": "#FF5400",
+  "colorSecondary": "#FF0055",
+  "demoSample": "samples/dnb/pad_4.wav",
+  "pads": [
+    { "id": 0, "name": "Fast Kick", "family": "DRUMS", "mode": "ONE_SHOT", "samplePath": "samples/dnb/pad_0.wav", "color": "#FF2A6D", "loopBars": 1 },
+    { "id": 1, "name": "Tight Snare", "family": "DRUMS", "mode": "ONE_SHOT", "samplePath": "samples/dnb/pad_1.wav", "color": "#FF2A6D", "loopBars": 1 },
+    { "id": 2, "name": "Amen Hat", "family": "DRUMS", "mode": "ONE_SHOT", "samplePath": "samples/dnb/pad_2.wav", "color": "#FF5376", "loopBars": 1 },
+    { "id": 3, "name": "Ghost Snare", "family": "DRUMS", "mode": "ONE_SHOT", "samplePath": "samples/dnb/pad_3.wav", "color": "#FF5376", "loopBars": 1 },
+    { "id": 4, "name": "Reese Bass", "family": "BASS", "mode": "LOOP", "samplePath": "samples/dnb/pad_4.wav", "color": "#FF5400", "loopBars": 2 },
+    { "id": 5, "name": "Sub Drone", "family": "BASS", "mode": "LOOP", "samplePath": "samples/dnb/pad_5.wav", "color": "#05D9E8", "loopBars": 2 },
+    { "id": 6, "name": "Jump-Up Stab", "family": "SYNTH", "mode": "ONE_SHOT", "samplePath": "samples/dnb/pad_6.wav", "color": "#9D4EDD", "loopBars": 1 },
+    { "id": 7, "name": "Atmo Pad", "family": "SYNTH", "mode": "LOOP", "samplePath": "samples/dnb/pad_7.wav", "color": "#7209B7", "loopBars": 2 },
+    { "id": 8, "name": "Uplifter", "family": "FX", "mode": "ONE_SHOT", "samplePath": "samples/dnb/pad_8.wav", "color": "#FFD166", "loopBars": 2 },
+    { "id": 9, "name": "Downlifter", "family": "FX", "mode": "ONE_SHOT", "samplePath": "samples/dnb/pad_9.wav", "color": "#FFD166", "loopBars": 1 },
+    { "id": 10, "name": "Jungle Vocal", "family": "VOCAL", "mode": "ONE_SHOT", "samplePath": "samples/dnb/pad_10.wav", "color": "#06D6A0", "loopBars": 1 },
+    { "id": 11, "name": "Break Roll", "family": "DRUMS", "mode": "ONE_SHOT", "samplePath": "samples/dnb/pad_11.wav", "color": "#FF2A6D", "loopBars": 1 }
+  ]
+}

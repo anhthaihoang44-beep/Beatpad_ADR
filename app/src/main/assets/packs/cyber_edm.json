@@ -1,0 +1,25 @@
+{
+  "id": "cyber_edm",
+  "name": "Cyber EDM",
+  "genre": "EDM",
+  "bpm": 128,
+  "key": "G Minor",
+  "description": "Explosive 4-on-the-floor kicks, stadium supersaws, and energetic festival drops.",
+  "colorPrimary": "#00F5FF",
+  "colorSecondary": "#FF007F",
+  "demoSample": "samples/edm/pad_5.wav",
+  "pads": [
+    { "id": 0, "name": "Mainstage Kick", "family": "DRUMS", "mode": "ONE_SHOT", "samplePath": "samples/edm/pad_0.wav", "color": "#FF0055", "loopBars": 1 },
+    { "id": 1, "name": "Big Snare", "family": "DRUMS", "mode": "ONE_SHOT", "samplePath": "samples/edm/pad_1.wav", "color": "#FF0055", "loopBars": 1 },
+    { "id": 2, "name": "Bright Hat", "family": "DRUMS", "mode": "ONE_SHOT", "samplePath": "samples/edm/pad_2.wav", "color": "#FF5500", "loopBars": 1 },
+    { "id": 3, "name": "Stadium Clap", "family": "DRUMS", "mode": "ONE_SHOT", "samplePath": "samples/edm/pad_3.wav", "color": "#FF0055", "loopBars": 1 },
+    { "id": 4, "name": "Donk Bass", "family": "BASS", "mode": "LOOP", "samplePath": "samples/edm/pad_4.wav", "color": "#00F5FF", "loopBars": 2 },
+    { "id": 5, "name": "Supersaw Gm", "family": "SYNTH", "mode": "LOOP", "samplePath": "samples/edm/pad_5.wav", "color": "#B5179E", "loopBars": 2 },
+    { "id": 6, "name": "Supersaw F", "family": "SYNTH", "mode": "LOOP", "samplePath": "samples/edm/pad_6.wav", "color": "#B5179E", "loopBars": 2 },
+    { "id": 7, "name": "Drop Grunt", "family": "SYNTH", "mode": "ONE_SHOT", "samplePath": "samples/edm/pad_7.wav", "color": "#7209B7", "loopBars": 1 },
+    { "id": 8, "name": "Noise Sweep", "family": "FX", "mode": "ONE_SHOT", "samplePath": "samples/edm/pad_8.wav", "color": "#FFE600", "loopBars": 2 },
+    { "id": 9, "name": "Downlifter", "family": "FX", "mode": "ONE_SHOT", "samplePath": "samples/edm/pad_9.wav", "color": "#FFE600", "loopBars": 1 },
+    { "id": 10, "name": "Vocal Drop", "family": "VOCAL", "mode": "ONE_SHOT", "samplePath": "samples/edm/pad_10.wav", "color": "#00F59B", "loopBars": 1 },
+    { "id": 11, "name": "Chop Staccato", "family": "VOCAL", "mode": "ONE_SHOT", "samplePath": "samples/edm/pad_11.wav", "color": "#00F59B", "loopBars": 1 }
+  ]
+}

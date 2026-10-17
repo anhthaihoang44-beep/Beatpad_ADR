@@ -1,0 +1,25 @@
+{
+  "id": "trap_3",
+  "packId": "neon_trap",
+  "title": "Trap 3: Full Trap Drop",
+  "description": "Combine kicks, snares, sub bass, and vocal hype chant.",
+  "bpm": 140,
+  "durationBars": 2,
+  "hits": [
+    { "id": 1, "padIndex": 0, "timeMs": 0, "durationMs": 300 },
+    { "id": 2, "padIndex": 4, "timeMs": 0, "durationMs": 800 },
+    { "id": 3, "padIndex": 10, "timeMs": 0, "durationMs": 400 },
+    { "id": 4, "padIndex": 2, "timeMs": 429, "durationMs": 200 },
+    { "id": 5, "padIndex": 1, "timeMs": 857, "durationMs": 300 },
+    { "id": 6, "padIndex": 5, "timeMs": 857, "durationMs": 300 },
+    { "id": 7, "padIndex": 2, "timeMs": 1286, "durationMs": 200 },
+    { "id": 8, "padIndex": 0, "timeMs": 1714, "durationMs": 300 },
+    { "id": 9, "padIndex": 4, "timeMs": 1714, "durationMs": 800 },
+    { "id": 10, "padIndex": 11, "timeMs": 1714, "durationMs": 400 },
+    { "id": 11, "padIndex": 0, "timeMs": 2143, "durationMs": 300 },
+    { "id": 12, "padIndex": 1, "timeMs": 2571, "durationMs": 300 },
+    { "id": 13, "padIndex": 5, "timeMs": 2571, "durationMs": 300 },
+    { "id": 14, "padIndex": 3, "timeMs": 3000, "durationMs": 300 },
+    { "id": 15, "padIndex": 8, "timeMs": 3214, "durationMs": 200 }
+  ]
+}

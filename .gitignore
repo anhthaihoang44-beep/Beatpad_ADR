@@ -1,0 +1,59 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+build/
+app/build/
+
+# Gradle files
+.gradle/
+buildOutput/
+
+# Local configuration file (sdk.dir, etc.)
+local.properties
+
+# Android Studio / IntelliJ files
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Audio temp / recordings
+*.wav.tmp
+recordings/
+
+# Temporary / intermediate screen capture pngs
+phase*.png
+current_state.png
+library_check.png
+phone_screenshot.png
+screenshot*.png
+
+# iOS build artifacts & unrelated files
+Payload/
+ios_build/
+ios_project/
+build-ios.yml
+*.xcscheme
+*.code-workspace
+extract_phase2.ps1

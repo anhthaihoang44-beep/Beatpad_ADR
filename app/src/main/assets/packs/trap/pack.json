@@ -1,0 +1,23 @@
+{
+  "id": "trap",
+  "name": "Neon Trap",
+  "genre": "Trap",
+  "bpm": 140,
+  "key": "F Minor",
+  "producer": "BeatPad Studio",
+  "isNew": true,
+  "pads": [
+    { "index": 0, "name": "Kick 808", "family": "DRUMS", "color": "#FF8A3D", "mode": "ONE_SHOT", "file": "pad_0.wav", "fileB": "pad_0_b.wav" },
+    { "index": 1, "name": "Trap Snare", "family": "DRUMS", "color": "#FF8A3D", "mode": "ONE_SHOT", "file": "pad_1.wav", "fileB": "pad_1_b.wav" },
+    { "index": 2, "name": "Clap", "family": "DRUMS", "color": "#FF8A3D", "mode": "ONE_SHOT", "file": "pad_5.wav", "fileB": "pad_5_b.wav" },
+    { "index": 3, "name": "Closed Hat", "family": "DRUMS", "color": "#FF8A3D", "mode": "ONE_SHOT", "file": "pad_2.wav", "fileB": "pad_2_b.wav" },
+    { "index": 4, "name": "Open Hat", "family": "DRUMS", "color": "#FF8A3D", "mode": "ONE_SHOT", "file": "pad_3.wav", "fileB": "pad_3_b.wav" },
+    { "index": 5, "name": "Sub 808", "family": "BASS", "color": "#FF4D8D", "mode": "LOOP", "file": "pad_4.wav", "fileB": "pad_4_b.wav" },
+    { "index": 6, "name": "Synth Pluck", "family": "SYNTH", "color": "#5CE05C", "mode": "LOOP", "file": "pad_7.wav", "fileB": "pad_7_b.wav" },
+    { "index": 7, "name": "Brass Chord", "family": "CHORDS", "color": "#3DA5FF", "mode": "LOOP", "file": "pad_6.wav", "fileB": "pad_6_b.wav" },
+    { "index": 8, "name": "Arp Synth", "family": "SYNTH", "color": "#5CE05C", "mode": "LOOP", "file": "pad_7.wav", "fileB": "pad_7_b.wav" },
+    { "index": 9, "name": "Lead Synth", "family": "SYNTH", "color": "#5CE05C", "mode": "LOOP", "file": "pad_6.wav", "fileB": "pad_6_b.wav" },
+    { "index": 10, "name": "Laser FX", "family": "FX_VOCAL", "color": "#FFD83D", "mode": "ONE_SHOT", "file": "pad_8.wav", "fileB": "pad_8_b.wav" },
+    { "index": 11, "name": "Vocal Hey", "family": "FX_VOCAL", "color": "#FFD83D", "mode": "ONE_SHOT", "file": "pad_10.wav", "fileB": "pad_10_b.wav" }
+  ]
+}

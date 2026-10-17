@@ -1,0 +1,25 @@
+{
+  "id": "future_bass",
+  "name": "Future Bass",
+  "genre": "Future Bass",
+  "bpm": 150,
+  "key": "E Major",
+  "description": "Lush LFO-wobbling supersaw swells, sparkling 8-bit arpeggios, and kawaii vocal chops.",
+  "colorPrimary": "#B5179E",
+  "colorSecondary": "#4CC9F0",
+  "demoSample": "samples/futurebass/pad_5.wav",
+  "pads": [
+    { "id": 0, "name": "Future Kick", "family": "DRUMS", "mode": "ONE_SHOT", "samplePath": "samples/futurebass/pad_0.wav", "color": "#F72585", "loopBars": 1 },
+    { "id": 1, "name": "Snap Snare", "family": "DRUMS", "mode": "ONE_SHOT", "samplePath": "samples/futurebass/pad_1.wav", "color": "#F72585", "loopBars": 1 },
+    { "id": 2, "name": "Trap Hi-Hat", "family": "DRUMS", "mode": "ONE_SHOT", "samplePath": "samples/futurebass/pad_2.wav", "color": "#B5179E", "loopBars": 1 },
+    { "id": 3, "name": "Crash Cymbal", "family": "DRUMS", "mode": "ONE_SHOT", "samplePath": "samples/futurebass/pad_3.wav", "color": "#B5179E", "loopBars": 1 },
+    { "id": 4, "name": "Sub Boom 808", "family": "BASS", "mode": "LOOP", "samplePath": "samples/futurebass/pad_4.wav", "color": "#4CC9F0", "loopBars": 2 },
+    { "id": 5, "name": "Supersaw Swell", "family": "SYNTH", "mode": "LOOP", "samplePath": "samples/futurebass/pad_5.wav", "color": "#7209B7", "loopBars": 2 },
+    { "id": 6, "name": "Pitched Lead", "family": "SYNTH", "mode": "LOOP", "samplePath": "samples/futurebass/pad_6.wav", "color": "#7209B7", "loopBars": 2 },
+    { "id": 7, "name": "Kawaii Arp", "family": "SYNTH", "mode": "ONE_SHOT", "samplePath": "samples/futurebass/pad_7.wav", "color": "#4361EE", "loopBars": 1 },
+    { "id": 8, "name": "Sub Impact", "family": "FX", "mode": "ONE_SHOT", "samplePath": "samples/futurebass/pad_8.wav", "color": "#F72585", "loopBars": 1 },
+    { "id": 9, "name": "Future Riser", "family": "FX", "mode": "ONE_SHOT", "samplePath": "samples/futurebass/pad_9.wav", "color": "#4CC9F0", "loopBars": 2 },
+    { "id": 10, "name": "Chibi 'Go!'", "family": "VOCAL", "mode": "ONE_SHOT", "samplePath": "samples/futurebass/pad_10.wav", "color": "#06D6A0", "loopBars": 1 },
+    { "id": 11, "name": "Glitch Stutter", "family": "FX", "mode": "ONE_SHOT", "samplePath": "samples/futurebass/pad_11.wav", "color": "#4CC9F0", "loopBars": 1 }
+  ]
+}

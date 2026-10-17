@@ -1,0 +1,15 @@
+{
+  "id": "trap_1",
+  "packId": "neon_trap",
+  "title": "Trap 1: The Foundation",
+  "description": "Learn the basic 808 kick and snare half-time beat.",
+  "bpm": 140,
+  "durationBars": 2,
+  "hits": [
+    { "id": 1, "padIndex": 0, "timeMs": 0, "durationMs": 300 },
+    { "id": 2, "padIndex": 1, "timeMs": 857, "durationMs": 300 },
+    { "id": 3, "padIndex": 0, "timeMs": 1714, "durationMs": 300 },
+    { "id": 4, "padIndex": 0, "timeMs": 2143, "durationMs": 300 },
+    { "id": 5, "padIndex": 1, "timeMs": 2571, "durationMs": 300 }
+  ]
+}

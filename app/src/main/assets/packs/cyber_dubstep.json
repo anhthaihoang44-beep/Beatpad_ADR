@@ -1,0 +1,25 @@
+{
+  "id": "cyber_dubstep",
+  "name": "Cyber Dubstep",
+  "genre": "Dubstep",
+  "bpm": 145,
+  "key": "E Minor",
+  "description": "Heavy LFO wobble growls, metallic snares, and destructive sub impacts.",
+  "colorPrimary": "#9D4EDD",
+  "colorSecondary": "#05D9E8",
+  "demoSample": "samples/dubstep/pad_4.wav",
+  "pads": [
+    { "id": 0, "name": "Punch Kick", "family": "DRUMS", "mode": "ONE_SHOT", "samplePath": "samples/dubstep/pad_0.wav", "color": "#FF2A6D", "loopBars": 1 },
+    { "id": 1, "name": "Metal Snare", "family": "DRUMS", "mode": "ONE_SHOT", "samplePath": "samples/dubstep/pad_1.wav", "color": "#FF2A6D", "loopBars": 1 },
+    { "id": 2, "name": "Dubstep Hat", "family": "DRUMS", "mode": "ONE_SHOT", "samplePath": "samples/dubstep/pad_2.wav", "color": "#FF5376", "loopBars": 1 },
+    { "id": 3, "name": "Splash Crash", "family": "DRUMS", "mode": "ONE_SHOT", "samplePath": "samples/dubstep/pad_3.wav", "color": "#FF5376", "loopBars": 1 },
+    { "id": 4, "name": "Wobble Bass", "family": "BASS", "mode": "LOOP", "samplePath": "samples/dubstep/pad_4.wav", "color": "#05D9E8", "loopBars": 2 },
+    { "id": 5, "name": "Sub Growl", "family": "BASS", "mode": "LOOP", "samplePath": "samples/dubstep/pad_5.wav", "color": "#05D9E8", "loopBars": 2 },
+    { "id": 6, "name": "Screech Lead", "family": "SYNTH", "mode": "ONE_SHOT", "samplePath": "samples/dubstep/pad_6.wav", "color": "#9D4EDD", "loopBars": 1 },
+    { "id": 7, "name": "Dark Pluck", "family": "SYNTH", "mode": "LOOP", "samplePath": "samples/dubstep/pad_7.wav", "color": "#B5179E", "loopBars": 2 },
+    { "id": 8, "name": "Laser FX", "family": "FX", "mode": "ONE_SHOT", "samplePath": "samples/dubstep/pad_8.wav", "color": "#FFD166", "loopBars": 1 },
+    { "id": 9, "name": "Build Riser", "family": "FX", "mode": "ONE_SHOT", "samplePath": "samples/dubstep/pad_9.wav", "color": "#FFD166", "loopBars": 2 },
+    { "id": 10, "name": "Vocal 'Drop'", "family": "VOCAL", "mode": "ONE_SHOT", "samplePath": "samples/dubstep/pad_10.wav", "color": "#06D6A0", "loopBars": 1 },
+    { "id": 11, "name": "Tape Glitch", "family": "FX", "mode": "ONE_SHOT", "samplePath": "samples/dubstep/pad_11.wav", "color": "#FFD166", "loopBars": 1 }
+  ]
+}

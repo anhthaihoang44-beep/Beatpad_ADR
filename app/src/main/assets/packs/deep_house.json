@@ -1,0 +1,25 @@
+{
+  "id": "deep_house",
+  "name": "Deep House",
+  "genre": "House",
+  "bpm": 124,
+  "key": "A Minor",
+  "description": "Warm 909 kicks, vintage M1 house organ chords, and soulful vocal phrases.",
+  "colorPrimary": "#FF9E00",
+  "colorSecondary": "#3A86FF",
+  "demoSample": "samples/house/pad_4.wav",
+  "pads": [
+    { "id": 0, "name": "Deep 909 Kick", "family": "DRUMS", "mode": "ONE_SHOT", "samplePath": "samples/house/pad_0.wav", "color": "#FF5400", "loopBars": 1 },
+    { "id": 1, "name": "House Clap", "family": "DRUMS", "mode": "ONE_SHOT", "samplePath": "samples/house/pad_1.wav", "color": "#FF5400", "loopBars": 1 },
+    { "id": 2, "name": "Open 909 Hat", "family": "DRUMS", "mode": "ONE_SHOT", "samplePath": "samples/house/pad_2.wav", "color": "#FF9E00", "loopBars": 1 },
+    { "id": 3, "name": "Closed Shaker", "family": "DRUMS", "mode": "ONE_SHOT", "samplePath": "samples/house/pad_3.wav", "color": "#FF9E00", "loopBars": 1 },
+    { "id": 4, "name": "House Organ", "family": "SYNTH", "mode": "LOOP", "samplePath": "samples/house/pad_4.wav", "color": "#7209B7", "loopBars": 2 },
+    { "id": 5, "name": "Deep Bassline", "family": "BASS", "mode": "LOOP", "samplePath": "samples/house/pad_5.wav", "color": "#3A86FF", "loopBars": 2 },
+    { "id": 6, "name": "Piano Chord", "family": "SYNTH", "mode": "LOOP", "samplePath": "samples/house/pad_6.wav", "color": "#7209B7", "loopBars": 2 },
+    { "id": 7, "name": "Analog Tom", "family": "DRUMS", "mode": "ONE_SHOT", "samplePath": "samples/house/pad_7.wav", "color": "#FF5400", "loopBars": 1 },
+    { "id": 8, "name": "Reverse Cymbal", "family": "FX", "mode": "ONE_SHOT", "samplePath": "samples/house/pad_8.wav", "color": "#FFD166", "loopBars": 1 },
+    { "id": 9, "name": "Dub Echo", "family": "FX", "mode": "ONE_SHOT", "samplePath": "samples/house/pad_9.wav", "color": "#FFD166", "loopBars": 1 },
+    { "id": 10, "name": "Soul 'Yeah'", "family": "VOCAL", "mode": "ONE_SHOT", "samplePath": "samples/house/pad_10.wav", "color": "#06D6A0", "loopBars": 1 },
+    { "id": 11, "name": "Groove Chop", "family": "VOCAL", "mode": "ONE_SHOT", "samplePath": "samples/house/pad_11.wav", "color": "#06D6A0", "loopBars": 1 }
+  ]
+}

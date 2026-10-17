@@ -1,0 +1,25 @@
+{
+  "id": "neon_trap",
+  "name": "Neon Trap",
+  "genre": "Trap",
+  "bpm": 140,
+  "key": "F Minor",
+  "description": "Heavy 808 sub drops, razor-sharp hats, and energetic vocal chops.",
+  "colorPrimary": "#FF2A6D",
+  "colorSecondary": "#05D9E8",
+  "demoSample": "samples/trap/pad_4.wav",
+  "pads": [
+    { "id": 0, "name": "Kick 808", "family": "DRUMS", "mode": "ONE_SHOT", "samplePath": "samples/trap/pad_0.wav", "color": "#FF2A6D", "loopBars": 1 },
+    { "id": 1, "name": "Trap Snare", "family": "DRUMS", "mode": "ONE_SHOT", "samplePath": "samples/trap/pad_1.wav", "color": "#FF2A6D", "loopBars": 1 },
+    { "id": 2, "name": "Closed Hat", "family": "DRUMS", "mode": "ONE_SHOT", "samplePath": "samples/trap/pad_2.wav", "color": "#FF5376", "loopBars": 1 },
+    { "id": 3, "name": "Open Hat", "family": "DRUMS", "mode": "ONE_SHOT", "samplePath": "samples/trap/pad_3.wav", "color": "#FF5376", "loopBars": 1 },
+    { "id": 4, "name": "Sub 808", "family": "BASS", "mode": "LOOP", "samplePath": "samples/trap/pad_4.wav", "color": "#05D9E8", "loopBars": 2 },
+    { "id": 5, "name": "Trap Clap", "family": "DRUMS", "mode": "ONE_SHOT", "samplePath": "samples/trap/pad_5.wav", "color": "#FF2A6D", "loopBars": 1 },
+    { "id": 6, "name": "Brass Stab", "family": "SYNTH", "mode": "ONE_SHOT", "samplePath": "samples/trap/pad_6.wav", "color": "#9D4EDD", "loopBars": 1 },
+    { "id": 7, "name": "Synth Pluck", "family": "SYNTH", "mode": "LOOP", "samplePath": "samples/trap/pad_7.wav", "color": "#B5179E", "loopBars": 2 },
+    { "id": 8, "name": "Laser FX", "family": "FX", "mode": "ONE_SHOT", "samplePath": "samples/trap/pad_8.wav", "color": "#FFD166", "loopBars": 1 },
+    { "id": 9, "name": "Riser Build", "family": "FX", "mode": "ONE_SHOT", "samplePath": "samples/trap/pad_9.wav", "color": "#FFD166", "loopBars": 2 },
+    { "id": 10, "name": "Vocal Hey", "family": "VOCAL", "mode": "ONE_SHOT", "samplePath": "samples/trap/pad_10.wav", "color": "#06D6A0", "loopBars": 1 },
+    { "id": 11, "name": "Vocal Chant", "family": "VOCAL", "mode": "ONE_SHOT", "samplePath": "samples/trap/pad_11.wav", "color": "#06D6A0", "loopBars": 1 }
+  ]
+}
